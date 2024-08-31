@@ -1,3 +1,5 @@
+!pip install plotly
+
 import streamlit as st
 import numpy as np
 import plotly.graph_objs as go
